@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there / Hello World👋
+
+This is eSport Brandes organisation on Github.
+Most if not all repositories are private, but check us out here: https://esport-brande.dk/
 
 <!--
 
